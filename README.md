@@ -3,8 +3,7 @@
 This is my first java graphics project on snake game. 
 This is not a final product. Made for the purpose of learning. 
 I have followed Bro Code video  to create this project.
-Link to the video - 
-https://www.youtube.com/watch?v=bI6e6qjJ8JQ
+Link to the [video](https://www.youtube.com/watch?v=bI6e6qjJ8JQ)
 
 ## Folder Structure
 
